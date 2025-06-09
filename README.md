@@ -4,16 +4,16 @@
 **由于翻译率不足, 翻译仍在准备. 此仓库暂时闲置.**
 
 ## 订阅方法
-1. 在客户端的 `config.json` 中该添加以下内容 (此文件的路径具体取决于操作系统):
+1. 在客户端的 `config.json` 中该添加以下内容 (此文件位于 Elemmenr 个人数据文件夹, 具体取决于操作系统或启动参数):
 ```
 {
-  "custom_translations_url": "https://****/ew_custom_translation_simplified_chinese.json"
+  "custom_translations_url": "https://raw.githubusercontent.com/YamatoRyou/element-web-custom-translation-simplified-chinese/refs/heads/main/ew_tr_zh_Hans_new.json"
 }
 ```  
 2. 对于桌面客户端需要重新启动, 对于 Web 客户端需要清除缓存并刷新.
 
 ## 反馈
-目前的方向是优先翻译轻易可见的任何位置.
+自定义翻译基于 Element 版本 1.11.101 给出的 key, 目前的方向是优先翻译轻易可见的任何位置.
 如果发现肉眼可见未翻译的字符串请提交以下信息 (非常重要, 直接决定翻译效果):
 - 当前显示在 UI 上的英文字符串 (格式: `aaa_bbb|ccc_ddd|eee`)
 - 该字符串出现位置的完整截图 (确定其上下文)
