@@ -4,12 +4,13 @@
 **由于翻译率不足, 翻译仍在准备. 此仓库暂时闲置.**
 
 ## 订阅方法
-在客户端的 `config.json` 中该添加以下内容:
+1. 在客户端的 `config.json` 中该添加以下内容 (此文件的路径具体取决于操作系统):
 ```
 {
   "custom_translations_url": "https://****/ew_custom_translation_simplified_chinese.json"
 }
-```
+```  
+2. 对于桌面客户端需要重新启动, 对于 Web 客户端需要清除缓存并刷新.
 
 ## 反馈
 目前的方向是优先翻译轻易可见的任何位置.
@@ -17,3 +18,22 @@
 - 当前显示在 UI 上的英文字符串 (格式: `aaa_bbb|ccc_ddd|eee`)
 - 该字符串出现位置的完整截图 (确定其上下文)
 - 使该字符串出现的步骤
+
+## 目前已知不翻译的字符串
+以下字符串由于疑似被硬编码; 难以确定其实际含义或具有标志性等原因导致被跳过; 暂时无法翻译或无法调整其格式:  
+- 房间信息 -> 投票:
+  `Active polls`
+  `Past polls`  
+- 设置 -> 外观:
+  `Hey you. You're the best!`  
+- 设置 -> 关于:
+  `Privacy Policy`
+  `Cookie Policy`  
+- 设置 -> 实验室:
+  `Markdown`
+  `Dynamic room predecessors`
+  `late-arriving room archives`
+  `Element Call`
+  `Emoji`
+
+**不要反馈上述字符串.**
