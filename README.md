@@ -5,6 +5,7 @@
 
 ## 订阅方法
 1. 在客户端的 `config.json` 中该添加以下内容 (此文件位于 Element 个人数据文件夹, 具体取决于操作系统或启动参数):
+   **此 URL 可能会改变.**
 ```
 {
   "custom_translations_url": "https://raw.githubusercontent.com/YamatoRyou/element-web-custom-translation-simplified-chinese/refs/heads/main/ew_tr_zh_Hans_new.json"
