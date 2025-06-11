@@ -40,7 +40,9 @@
   `Active polls`
   `Past polls`  
 - 设置 -> 外观:
-  `Hey you. You're the best!`  
+  `Hey you. You're the best!`
+- 设置 -> 通知:
+  `People`
 - 设置 -> 关于:
   `Privacy Policy`
   `Cookie Policy`  
