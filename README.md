@@ -6,9 +6,10 @@
 Web 客户端: https://github.com/element-hq/element-web  
 桌面客户端: https://github.com/element-hq/element-desktop  
 
-**截至 2025 / 06 / 12, 基于字符串数量统计翻译率约 88%.**  
-**自定义翻译会因修正而随时做出更改.**
+**截至 2025 / 06 / 13, 基于字符串数量统计翻译率约 90%.**  
+### 自定义翻译会因修正而随时做出更改, 订阅此翻译即表示你接受此更新策略.
 
+----
 ## 订阅方法
 `config.json` 并非 Element 必需文件, 但若要使用自定义翻译则其必须存在.  
 此文件的参考格式请参阅 (英文文档): https://github.com/element-hq/element-web/blob/develop/config.sample.json  
