@@ -38,21 +38,34 @@
 
 ## 目前已知不翻译的字符串
 以下字符串由于疑似被硬编码; 难以确定其实际含义或具有标志性等原因导致被跳过; 暂时无法翻译或无法调整其格式:  
+- 时间线 -> 日期跳转选项:
+  `Last week`
+  `Last month`  
+  以上字符串未接入自定义翻译, 且被强制使用官方的简体中文翻译. 无法被覆盖.
+
 - 房间信息 -> 投票:
   `Active polls`
   `Past polls`  
+  以上字符串未接入自定义翻译, 无法被覆盖.
+  
 - 设置 -> 外观:
-  `Hey you. You're the best!`
+  `Hey you. You're the best!`  
+  以上字符串满足覆盖条件, 但暂不翻译.
+  
 - 设置 -> 通知:
-  `People`
+  `People`  
+  以上字符串未接入自定义翻译, 无法被覆盖.
+  
 - 设置 -> 关于:
   `Privacy Policy`
   `Cookie Policy`  
+  以上字符串未接入自定义翻译, 无法被覆盖.
+  
 - 设置 -> 实验室:
-  `Markdown`
-  `Dynamic room predecessors`
-  `late-arriving room archives`
-  `Element Call`
-  `Emoji`
+  `Markdown` (标志性名词, 不翻译)  
+  `Dynamic room predecessors` (难以确定实际含义, 不翻译)  
+  `late-arriving room archives` (难以确定实际含义, 不翻译)  
+  `Element Call` (标志性名词, 不翻译)  
+  `Emoji`  (标志性名词, 不翻译)  
 
 **不要反馈上述字符串.**
