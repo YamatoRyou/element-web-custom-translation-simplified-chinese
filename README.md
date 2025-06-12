@@ -12,10 +12,11 @@ Web 客户端: https://github.com/element-hq/element-web
 ## 订阅方法
 `config.json` 并非 Element 必需文件, 但若要使用自定义翻译则其必须存在.  
 此文件的参考格式请参阅 (英文文档): https://github.com/element-hq/element-web/blob/develop/config.sample.json  
-此文件可用的配置项请参阅 (英文文档): https://github.com/element-hq/element-web/blob/develop/docs/config.md
+此文件可用的配置项请参阅 (英文文档): https://github.com/element-hq/element-web/blob/develop/docs/config.md  
+对于桌面客户端, 此文件在不同操作系统上的默认存储路径请参阅 (英文文档): https://github.com/element-hq/element-desktop?tab=readme-ov-file#user-specified-configjson
 
 ### 桌面客户端
-1. 确定 `config.json` 的路径 (此文件位于 Element 个人数据文件夹, 具体取决于操作系统或启动参数. );
+1. 确定 `config.json` 的路径 (如果使用了额外启动参数例如 `--user-data-dir`, 则取决于这些参数);
 2. 编辑此文件, 添加以下内容:  
    **此 URL 可能会改变.**
 ```
