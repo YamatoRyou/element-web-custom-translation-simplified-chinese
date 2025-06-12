@@ -1,13 +1,21 @@
 # 适用于 Element Web / 桌面客户端的自定义简体中文翻译
 ## 说明
 此仓库提供一个订阅, 用于改善 Element Web (含桌面客户端) 的简体中文翻译.  
-**截至 2025 / 06 / 12, 基于字符串数量统计翻译率约 88%.**
-**自定义翻译会随时因修正而做出更改.**
 
+相关项目主页:  
+Web 客户端: https://github.com/element-hq/element-web  
+桌面客户端: https://github.com/element-hq/element-desktop  
+
+**截至 2025 / 06 / 12, 基于字符串数量统计翻译率约 88%.**  
+**自定义翻译会因修正而随时做出更改.**
 
 ## 订阅方法
+`config.json` 并非 Element 必需文件, 但若要使用自定义翻译则其必须存在.  
+此文件的参考格式请参阅 (英文文档): https://github.com/element-hq/element-web/blob/develop/config.sample.json
+此文件可用的配置项请参阅 (英文文档): https://github.com/element-hq/element-web/blob/develop/docs/config.md
+
 ### 桌面客户端
-1. 确定 `config.json` 的路径 (此文件位于 Element 个人数据文件夹, 具体取决于操作系统或启动参数. 此文件非必需文件);
+1. 确定 `config.json` 的路径 (此文件位于 Element 个人数据文件夹, 具体取决于操作系统或启动参数. );
 2. 编辑此文件, 添加以下内容:  
    **此 URL 可能会改变.**
 ```
@@ -37,6 +45,7 @@
 - 使该字符串出现的步骤
 
 ## 目前已知不翻译的字符串
+**此列表可能不完整.**
 以下字符串由于疑似被硬编码; 难以确定其实际含义或具有标志性等原因导致被跳过; 暂时无法翻译或无法调整其格式:  
 - 时间线 -> 日期跳转选项:
   `Last week`
