@@ -16,7 +16,7 @@ Web 客户端: https://github.com/element-hq/element-web
 对于桌面客户端, 此文件在不同操作系统上的默认存储路径请参阅 (英文文档): https://github.com/element-hq/element-desktop?tab=readme-ov-file#user-specified-configjson
 
 ### 桌面客户端
-1. 确定 `config.json` 的路径 (如果使用了额外启动参数例如 `--user-data-dir`, 则取决于这些参数);
+1. 确定 `config.json` 的路径 (如果使用了额外启动参数例如 `--user-data-dir`; `--profile` 或 `--config`, 则最终取决于这些参数);
 2. 编辑此文件, 添加以下内容:  
    **此 URL 可能会改变.**
 ```
