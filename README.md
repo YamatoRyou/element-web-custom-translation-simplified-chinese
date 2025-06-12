@@ -11,7 +11,7 @@ Web 客户端: https://github.com/element-hq/element-web
 
 ## 订阅方法
 `config.json` 并非 Element 必需文件, 但若要使用自定义翻译则其必须存在.  
-此文件的参考格式请参阅 (英文文档): https://github.com/element-hq/element-web/blob/develop/config.sample.json
+此文件的参考格式请参阅 (英文文档): https://github.com/element-hq/element-web/blob/develop/config.sample.json  
 此文件可用的配置项请参阅 (英文文档): https://github.com/element-hq/element-web/blob/develop/docs/config.md
 
 ### 桌面客户端
