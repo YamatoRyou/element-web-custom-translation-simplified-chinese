@@ -22,7 +22,7 @@ Web 客户端: https://github.com/element-hq/element-web
    **此 URL 可能会改变.**
 ```
 {
-  "custom_translations_url": "https://raw.githubusercontent.com/YamatoRyou/element-web-custom-translation-simplified-chinese/refs/heads/main/ew_tr_zh_Hans_new.json"
+  "custom_translations_url": "https://raw.githubusercontent.com/YamatoRyou/element-web-custom-translation-simplified-chinese/refs/heads/main/ew_tr_zh_Hans.json"
 }
 ```
 3. 保存修改并重启 Element.
@@ -33,7 +33,7 @@ Web 客户端: https://github.com/element-hq/element-web
    **此 URL 可能会改变.**
 ```
 {
-  "custom_translations_url": "https://raw.githubusercontent.com/YamatoRyou/element-web-custom-translation-simplified-chinese/refs/heads/main/ew_tr_zh_Hans_new.json"
+  "custom_translations_url": "https://raw.githubusercontent.com/YamatoRyou/element-web-custom-translation-simplified-chinese/refs/heads/main/ew_tr_zh_Hans.json"
 }
 ```
 3. 保存修改并重启容器, 如有必要请使用 Element 自带的 "清除缓存并重载" 功能.
