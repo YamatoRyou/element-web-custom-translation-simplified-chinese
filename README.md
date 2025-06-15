@@ -6,7 +6,7 @@
 Web 客户端: https://github.com/element-hq/element-web  
 桌面客户端: https://github.com/element-hq/element-desktop  
 
-**截至 2025 / 06 / 13, 基于字符串数量统计翻译率约 90%. 已基本满足日常使用所需.**  
+**截至 2025 / 06 / 15, 已基本翻译完毕, 进入校对阶段. 可满足日常使用所需.**  
 ### 自定义翻译会因修正而随时做出更改, 订阅此翻译即表示你接受此更新策略.
 
 ----
@@ -61,7 +61,7 @@ Web 客户端: https://github.com/element-hq/element-web
   
 - 设置 -> 外观:
   `Hey you. You're the best!`  
-  以上字符串满足覆盖条件, 但暂不翻译.
+  以上字符串满足覆盖条件, 但~~夹带私货~~.
   
 - 设置 -> 通知:
   `People`  
