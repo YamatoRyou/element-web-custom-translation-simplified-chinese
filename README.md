@@ -74,8 +74,6 @@ Web 客户端: https://github.com/element-hq/element-web
   
 - 设置 -> 实验室:
   `Markdown` (标志性名词, 不翻译)  
-  `Dynamic room predecessors` (难以确定实际含义, 不翻译)  
-  `late-arriving room archives` (难以确定实际含义, 不翻译)
   `Element` (标志性名词, 不翻译)  
   `Element Call` (标志性名词, 不翻译)  
   `Emoji`  (标志性名词, 不翻译)  
