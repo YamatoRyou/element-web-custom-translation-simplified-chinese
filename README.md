@@ -58,7 +58,7 @@ Web 客户端: https://github.com/element-hq/element-web
 - 房间信息 -> 投票:
   `Active polls`
   `Past polls`  
-  以上字符串未接入自定义翻译, 无法被覆盖.
+  以上字符串存在于官方语言文件, 但实际上未接入自定义翻译, 强制覆盖无效.
   
 - 设置 -> 外观:
   `Hey you. You're the best!`  
