@@ -94,10 +94,8 @@ Web 客户端: https://github.com/element-hq/element-web
 `space`: 空间  
 `homeserver`: 主服务器  
 `power level`: 权力值 (可能会更改)  
-`Matrix`:   
 `composer`: 编辑器  
 `DM (Direct message)`: 私聊  
-`Token`:   
 `Secret storage`: 秘密存储  
 `Thread`: 消息列 (可能会更改)  
 `others`: 其它; 其他  
