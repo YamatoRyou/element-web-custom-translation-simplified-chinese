@@ -87,3 +87,19 @@ Web 客户端: https://github.com/element-hq/element-web
 - 某些已置入编辑框的占位字符串, 此类字符串可以由用户自行修改而不影响 Element 运行.
 
 **不要反馈上述字符串.**
+
+## 特定单词在本案中采用的翻译
+`room`: 房间  
+`event`: 事件  
+`space`: 空间  
+`homeserver`: 主服务器  
+`power level`: 权力值 (可能会更改)  
+`Matrix`:   
+`composer`: 编辑器  
+`DM (Direct message)`: 私聊  
+`Token`:   
+`Secret storage`: 秘密存储  
+`Thread`: 消息列 (可能会更改)  
+`others`: 其它; 其他  
+`Timeline`: 时间线  
+`widget`: 小部件 (可能会更改)  
