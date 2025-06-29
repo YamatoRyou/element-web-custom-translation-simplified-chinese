@@ -62,6 +62,10 @@ Web 客户端: https://github.com/element-hq/element-web
   `Active polls`
   `Past polls`  
   以上字符串存在于官方语言文件, 但实际上未接入自定义翻译, 强制覆盖无效.
+
+- 设置 -> 会话 -> 显示二维码:
+  `Back` (返回按钮的 hint)  
+  以上字符串存在于官方语言文件, 但实际上未接入自定义翻译, 强制覆盖无效.
   
 - 设置 -> 外观:
   `Hey you. You're the best!`  
