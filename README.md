@@ -106,6 +106,6 @@ Web 客户端: https://github.com/element-hq/element-web
 `Secret storage`: 秘密存储  
 `Thread`: 消息列 (可能会更改)  
 `others`: 其它 (面向除人员外的所有对象); 其他 (仅面向人员)  
-`passphrase`: 口令 (与密码的区别是由多个字符串组成)  
+`passphrase`: 口令 (与密码的区别是更复杂, 由多个单词或不以半角空格分隔的字符串组成)  
 `Timeline`: 时间线  
 `widget`: 小部件 (可能会更改)  
