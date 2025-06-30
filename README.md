@@ -93,15 +93,19 @@ Web 客户端: https://github.com/element-hq/element-web
 **不要反馈上述字符串.**
 
 ## 特定单词在本案中采用的翻译
+`bridge`: 桥接器  
 `room`: 房间  
 `event`: 事件  
 `space`: 空间  
 `homeserver`: 主服务器  
+`Integration`: 集成 (可能会更改)  
 `power level`: 权力值 (可能会更改)  
 `composer`: 编辑器  
+`thread`: 消息列 (可能会更改)  
 `DM (Direct message)`: 私聊  
 `Secret storage`: 秘密存储  
 `Thread`: 消息列 (可能会更改)  
-`others`: 其它; 其他  
+`others`: 其它 (面向除人员外的所有对象); 其他 (仅面向人员)  
+`passphrase`: 口令 (与密码的区别是由多个字符串组成)  
 `Timeline`: 时间线  
 `widget`: 小部件 (可能会更改)  
