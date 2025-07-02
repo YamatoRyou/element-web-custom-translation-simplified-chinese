@@ -71,11 +71,6 @@ Web 客户端: https://github.com/element-hq/element-web
   `Hey you. You're the best!`  
   以上字符串满足覆盖条件, 但~~夹带私货~~.
   
-- 设置 -> 通知:
-  `People`  
-  **需要在实验室启用 "通知设置 (Beta)".**  
-  以上字符串未接入自定义翻译, 无法被覆盖.
-  
 - 设置 -> 关于:
   `Privacy Policy`
   `Cookie Policy`  
