@@ -858,6 +858,7 @@
 "encryption|cross_signing_user_warning": {"zh-hans": "该用户尚未验证其所有会话。"},
 "encryption|enter_recovery_key": {"zh-hans": "输入恢复密钥"},
 "encryption|event_shield_reason_authenticity_not_guaranteed": {"zh-hans": "此设备无法保证此加密消息的真实性。"},
+"encryption|event_shield_reason_mismatched_sender": {"zh-hans": "事件的发送者与发送该事件的设备的所有者不匹配。"},
 "encryption|event_shield_reason_mismatched_sender_key": {"zh-hans": "由未验证的会话加密"},
 "encryption|event_shield_reason_unknown_device": {"zh-hans": "由未知或已被删除的设备加密。"},
 "encryption|event_shield_reason_unsigned_device": {"zh-hans": "由未经所有者验证的设备加密。"},
