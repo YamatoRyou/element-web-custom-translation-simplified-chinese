@@ -1306,7 +1306,7 @@
 "keyboard|room_list_navigate_down": {"zh-hans": "向下导航到房间列表"},
 "keyboard|room_list_navigate_up": {"zh-hans": "向上导航到房间列表"},
 "keyboard|room_list_select_room": {"zh-hans": "从房间列表中选择房间"},
-"keyboard|room_list_save": {"zh-hans": "保存"},
+"keyboard|save": {"zh-hans": "保存"},
 "keyboard|scroll_down_timeline": {"zh-hans": "向下滚动时间线"},
 "keyboard|scroll_up_timeline": {"zh-hans": "向上滚动时间线"},
 "keyboard|search": {"zh-hans": "搜索（要使其生效必须启用相关功能）"},
