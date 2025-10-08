@@ -1,6 +1,6 @@
 {
 "__info": {"author": "Yamato Ryou",
-"last_update": "2025 / 10 / 07"},
+"last_update": "2025 / 10 / 08"},
 "a11y|emoji_picker": {"zh-hans": "Emoji 选择器"},
 "a11y|jump_first_invite": {"zh-hans": "跳转到首个邀请"},
 "a11y|message_composer": {"zh-hans": "消息编辑器"},
@@ -2496,8 +2496,8 @@
 "settings|notifications|rule_suppress_notices": {"zh-hans": "由机器人发送的消息"},
 "settings|notifications|rule_tombstone": {"zh-hans": "当房间升级时。"},
 "settings|notifications|show_message_desktop_notification": {"zh-hans": "在桌面通知中显示消息内容"},
-"settings.notifications|sounds_release_announcement|description": {"zh-hans": "通知提示音与来电铃声已焕新！清晰、快捷、更少干扰"},
-"settings.notifications|sounds_release_announcement|title": {"zh-hans": "我们为你焕新了提示音"},
+"settings|notifications|sounds_release_announcement|description": {"zh-hans": "通知提示音与来电铃声已焕新！清晰、快捷、更少干扰"},
+"settings|notifications|sounds_release_announcement|title": {"zh-hans": "我们为你焕新了提示音"},
 "settings|notifications|voip": {"zh-hans": "音频与视频通话"},
 "settings|preferences|Electron.enableContentProtection": {"zh-hans": "阻止窗口内容被其它应用程序捕获"},
 "settings|preferences|Electron.enableHardwareAcceleration": {"zh-hans": "启用硬件加速（需要重新启动 %(appName)s 以生效）"},
