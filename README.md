@@ -83,6 +83,7 @@ Web 客户端: https://github.com/element-hq/element-web
 `room`: 房间  
 `event`: 事件  
 `space`: 空间  
+`Dehydrated`: 脱水 (可能会更改)  
 `homeserver`: 主服务器  
 `Integration`: 集成 (可能会更改)  
 `power level`: 权力值 (可能会更改)  
